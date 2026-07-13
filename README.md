@@ -24,13 +24,16 @@
 Berikut adalah visualisasi antarmuka dari aplikasi **MindInsight Mobile**:
 
 <p align="center">
-  <img src="!<img width="923" height="642" alt="1" src="https://github.com/user-attachments/assets/639d7bf8-f52c-4a67-8846-98b1b0771c97 " />
+  <img src="!<img width="923" height="642" alt="1" src="https://github.com/user-attachments/assets/e96923e2-9b85-438c-89c7-39066d64e8dc" />
+" />
   " />
 
 )
 " width="250" title="Splash & AI Dashboard" alt="Screen 1 Dashboard">
-  <img src="./assets/2.png" width="250" title="Machine Learning Analytics" alt="Screen 2 Analytics">
-  <img src="./assets/3.png" width="250" title="Predictive Report Screen" alt="Screen 3 Report">
+  <img src=".<img width="352" height="781" alt="2" src="https://github.com/user-attachments/assets/2b45bdd3-12f4-4774-b001-ebf15c09febd" />
+" width="250" title="Machine Learning Analytics" alt="Screen 2 Analytics">
+  <img src=".<img width="1881" height="832" alt="3" src="https://github.com/user-attachments/assets/8dc0b193-bfc7-4d4b-8da5-eb850cfa03e0" />
+" width="250" title="Predictive Report Screen" alt="Screen 3 Report">
 </p>
 
 > 💡 *Catatan Reviewer/Dosen: Semua aset gambar di atas tersimpan secara lokal di dalam repositori pada folder `./screenshots/` untuk menjamin visualisasi bebas dari broken link.*
