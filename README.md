@@ -25,9 +25,9 @@ Berikut adalah visualisasi antarmuka dari aplikasi **MindInsight Mobile**:
 
 <p align="center">
   <img src="<img width="923" height="642" alt="1" src="https://github.com/user-attachments/assets/9cef08af-ddc9-4c2d-ad0e-0b7015a2a69a" />
- />
+ /> " width="250" title="Splash & AI Dashboard" alt="Screen 1 Dashboard">
 
-" width="250" title="Splash & AI Dashboard" alt="Screen 1 Dashboard">
+" width="250" title="Splash & AI Dashboard" alt="Screen 2 Dashboard">
   <img src="!<img width="352" height="781" alt="2" src="https://github.com/user-attachments/assets/c30e32d2-47c7-4059-b514-4defc3926e6f" />
  />
   <img src="!<img width="1881" height="832" alt="3" src="https://github.com/user-attachments/assets/0c87b5f4-6531-4377-b371-5b6ef937cbfd" />
