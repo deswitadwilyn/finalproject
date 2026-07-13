@@ -1,4 +1,4 @@
-# 💻 INFO DEVELOPER
+<img width="352" height="781" alt="2" src="https://github.com/user-attachments/assets/814c01c5-da7c-4b56-90ba-1d362a4e3b70" /># 💻 INFO DEVELOPER
 *   **Nama Lengkap**  : Deswita Dwilyn
 *   **NIM**           : 243303621225
 *   **Program Studi** : Sistem Informasi
@@ -24,7 +24,11 @@
 Berikut adalah visualisasi antarmuka dari aplikasi **MindInsight Mobile**:
 
 <p align="center">
-  <img src="./assets/1.png" width="250" title="Splash & AI Dashboard" alt="Screen 1 Dashboard">
+  <img src="!<img width="923" height="642" alt="1" src="https://github.com/user-attachments/assets/639d7bf8-f52c-4a67-8846-98b1b0771c97 " />
+  " />
+
+)
+" width="250" title="Splash & AI Dashboard" alt="Screen 1 Dashboard">
   <img src="./assets/2.png" width="250" title="Machine Learning Analytics" alt="Screen 2 Analytics">
   <img src="./assets/3.png" width="250" title="Predictive Report Screen" alt="Screen 3 Report">
 </p>
