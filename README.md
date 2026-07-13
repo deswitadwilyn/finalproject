@@ -30,9 +30,10 @@ Berikut adalah visualisasi antarmuka dari aplikasi **MindInsight Mobile**:
 
 )
 " width="250" title="Splash & AI Dashboard" alt="Screen 1 Dashboard">
-  <img src=".<img width="352" height="781" alt="2" src="https://github.com/user-attachments/assets/2b45bdd3-12f4-4774-b001-ebf15c09febd" />
-" width="250" title="Machine Learning Analytics" alt="Screen 2 Analytics">
-  <img src=".<img width="1881" height="832" alt="3" src="https://github.com/user-attachments/assets/8dc0b193-bfc7-4d4b-8da5-eb850cfa03e0" />
+  <img src="!<img width="352" height="781" alt="2" src="https://github.com/user-attachments/assets/c30e32d2-47c7-4059-b514-4defc3926e6f" />
+ />
+  <img src="!<img width="1881" height="832" alt="3" src="https://github.com/user-attachments/assets/0c87b5f4-6531-4377-b371-5b6ef937cbfd" />
+ />
 " width="250" title="Predictive Report Screen" alt="Screen 3 Report">
 </p>
 
