@@ -24,7 +24,8 @@
 Berikut adalah visualisasi antarmuka dari aplikasi **MindInsight Mobile**:
 
 <p align="center">
-  <img src="!<img width="923" height="642" alt="1" src="https://github.com/user-attachments/assets/e96923e2-9b85-438c-89c7-39066d64e8dc" />
+  <img src="<img width="923" height="642" alt="1" src="https://github.com/user-attachments/assets/6049c01b-0c00-4710-9b06-e335607da395" />
+ />
 " />
   " />
 
