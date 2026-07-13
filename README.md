@@ -1,4 +1,4 @@
-<img width="352" height="781" alt="2" src="https://github.com/user-attachments/assets/814c01c5-da7c-4b56-90ba-1d362a4e3b70" /># 💻 INFO DEVELOPER
+# 💻 INFO DEVELOPER
 *   **Nama Lengkap**  : Deswita Dwilyn
 *   **NIM**           : 243303621225
 *   **Program Studi** : Sistem Informasi
@@ -23,19 +23,16 @@
 ## 📸 Screenshots & Interface
 Berikut adalah visualisasi antarmuka dari aplikasi **MindInsight Mobile**:
 
-" width="250" title="Splash & AI Dashboard" alt="Screen 1 Dashboard">
 <p align="center">
-  <img src="!<img width="923" height="642" alt="1" src="https://github.com/user-attachments/assets/643c58f5-0709-43ee-abe9-58fc5d121415" />
- />
-" width="250" title="Splash & AI Dashboard" alt="Screen 2 Dashboard">
-  <img src="!<img width="352" height="781" alt="2" src="https://github.com/user-attachments/assets/c30e32d2-47c7-4059-b514-4defc3926e6f" />
- />
-  <img src="!<img width="1881" height="832" alt="3" src="https://github.com/user-attachments/assets/0c87b5f4-6531-4377-b371-5b6ef937cbfd" />
- />
+  <img src="<img width="923" height="642" alt="1" src="https://github.com/user-attachments/assets/5eeae2c7-66aa-4d56-82c1-fc927a77d9aa" />
+" width="250" title="Splash & AI Dashboard" alt="Screen 1 Dashboar">
+  <img src="<img width="352" height="781" alt="2" src="https://github.com/user-attachments/assets/d6a32e8f-6bcd-422d-bef9-83b505f9356e" />
+" width="250" title="Machine Learning Analytics" alt="Screen 2 Analytics">
+  <img src="<img width="1881" height="832" alt="3" src="https://github.com/user-attachments/assets/c421861a-c02c-44a2-ab0f-9f91e4bf14aa" />
 " width="250" title="Predictive Report Screen" alt="Screen 3 Report">
 </p>
 
-> 💡 *Catatan Reviewer/Dosen: Semua aset gambar di atas tersimpan secara lokal di dalam repositori pada folder `./screenshots/` untuk menjamin visualisasi bebas dari broken link.*
+> 💡 *Catatan Reviewer/Dosen: Semua aset gambar di atas tersimpan dengan aman pada server cloud/repositori untuk menjamin visualisasi bebas dari broken link saat Demo Day.*
 
 ---
 
